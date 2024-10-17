@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "version": "1.0.0",
+  
+    "main":"cypress.config.js"
+  },
+  
+    "scripts": {
+      "tour": "cypress open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+  }
+
